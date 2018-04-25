@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Part-3-.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>546372611.34718597</real>
+				<key>version</key>
+				<dict>
+					<key>0e2c4349a6287e9422ad85db32eadc2667449afd541331a84bac7e4b8c82a402</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>Phase-2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>546372605.17551398</real>
+				<key>version</key>
+				<dict>
+					<key>0e2c4349a6287e9422ad85db32eadc2667449afd541331a84bac7e4b8c82a402</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Phase-3.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>546372605.17551506</real>
+				<key>version</key>
+				<dict>
+					<key>0e2c4349a6287e9422ad85db32eadc2667449afd541331a84bac7e4b8c82a402</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Phase-2.md</string>
+		</array>
+		<array>
+			<string>Phase-3.md</string>
+		</array>
+		<array>
+			<string>Part-3-.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>0e2c4349a6287e9422ad85db32eadc2667449afd541331a84bac7e4b8c82a402</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
