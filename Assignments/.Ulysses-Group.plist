@@ -3,10 +3,62 @@
 <plist version="1.0">
 <dict>
 	<key>resolutionData</key>
-	<dict/>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Assignment 1.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>546377344.63066995</real>
+				<key>version</key>
+				<dict>
+					<key>0e2c4349a6287e9422ad85db32eadc2667449afd541331a84bac7e4b8c82a402</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Assignment 2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>546377413.715662</real>
+				<key>version</key>
+				<dict>
+					<key>0e2c4349a6287e9422ad85db32eadc2667449afd541331a84bac7e4b8c82a402</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+			<key>Assignment 3.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>546803779.63559401</real>
+				<key>version</key>
+				<dict>
+					<key>0e2c4349a6287e9422ad85db32eadc2667449afd541331a84bac7e4b8c82a402</key>
+					<integer>9</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Assignment 1.md</string>
+		</array>
+		<array>
+			<string>Assignment 2.md</string>
+		</array>
+		<array>
+			<string>Assignment 3.md</string>
+		</array>
+	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
-	<dict/>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>0e2c4349a6287e9422ad85db32eadc2667449afd541331a84bac7e4b8c82a402</key>
+			<integer>10</integer>
+		</dict>
+	</dict>
 </dict>
 </plist>
